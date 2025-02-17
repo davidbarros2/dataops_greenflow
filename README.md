@@ -8,6 +8,7 @@ Este ficheiro README oferece uma visão geral do projeto, da sua estrutura, de c
 
 A estrutura de pastas do projeto é a seguinte:
 
+```
 dataops_greenflow/
 ├── data/
 │   └── dados_sensores_5000.parquet
@@ -16,6 +17,7 @@ dataops_greenflow/
 ├── .gitignore
 ├── README.md
 └── LICENSE
+```
 
 *   **`data/`**: Contém o ficheiro Parquet `dados_sensores_5000.parquet` com os dados das empresas.
 *   **`notebooks/`**: Contém o notebook Jupyter `challenge1.ipynb` com o código da análise.
